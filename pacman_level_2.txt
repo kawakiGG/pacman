@@ -1,0 +1,5 @@
+Pac-Man Level 2
+Release Date: 1980
+Key Features:
+- Increased ghost speed.
+- Power pellets introduced, allowing Pac-Man to eat ghosts.

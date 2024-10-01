@@ -1,0 +1,5 @@
+Pac-Man Level 1
+Release Date: 1980
+Key Features:
+- Introduction to the maze.
+- Pac-Man vs. four ghosts: Blinky, Pinky, Inky, and Clyde.
