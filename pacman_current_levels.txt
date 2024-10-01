@@ -1,0 +1,17 @@
+Pac-Man Championship Edition (Level 1)
+Release Date: 2007
+Key Features:
+- New neon-themed mazes.
+- Time-based gameplay with increasing speed.
+
+Pac-Man Championship Edition DX (Level 2)
+Release Date: 2010
+Key Features:
+- Ability to slow down time when close to enemies.
+- Includes ghost trains that follow Pac-Man.
+
+Pac-Man 256 (Level 3)
+Release Date: 2015
+Key Features:
+- Endless maze gameplay.
+- A glitch wave constantly pursues Pac-Man, inspired by the famous level 256 glitch.

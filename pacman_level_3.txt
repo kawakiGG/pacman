@@ -1,0 +1,5 @@
+Pac-Man Level 3
+Release Date: 1980
+Key Features:
+- First appearance of the fruit bonus items.
+- Higher difficulty as ghosts' behavior improves.
